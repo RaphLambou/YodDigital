@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on AngularJs projects
-- 📫 How to reach me yoddigital@gmail.com
+- 📫 How to reach me raph.lambou@gmail.com
 
 <!---
 YodDigital/YodDigital is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
